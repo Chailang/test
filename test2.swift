@@ -9,4 +9,6 @@ import Foundation
 
 func test1(){
     print("哈哈哈哈")
+    print("xxxxx")
 }
+
